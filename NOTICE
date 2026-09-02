@@ -1,0 +1,18 @@
+Vis Network Add-on for Vaadin Flow
+Copyright (C) 2026 Vaadin Ltd
+
+This product includes software originally developed by sameeraroshan.
+
+Portions of this product are derived from the visjs-addon (network) Vaadin 7
+add-on, available at https://github.com/sameeraroshan/visjs (branch visJs4+)
+under the Apache License, Version 2.0. Those portions have been modified:
+ported from Vaadin 7 to Vaadin Flow, and updated from vis.js 4.x to
+vis-network 10.x. The files concerned say so in their own headers.
+
+The original work declared no copyright holder, leaving the placeholders of
+the Apache License appendix unfilled, and shipped no NOTICE file of its own.
+
+This product requires vis-network, https://github.com/visjs/vis-network,
+available under the Apache License 2.0 or the MIT License at the recipient's
+option. It is resolved as an npm dependency when an application is built and
+is not redistributed inside this artifact.

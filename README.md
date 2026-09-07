@@ -32,6 +32,10 @@ The Java API (`NetworkDiagram`, `Node`, `Edge` and the `Options` tree) is kept, 
 * Node events (select, click, double click, hover, blur, drag start, drag end) and diagram events (stabilization start, progress, iterations done and stabilized, plus zoom and resize)
 * Programmatic redraw, stabilize and fit-to-screen
 
+## Online demo
+
+Go to https://vcf-demos.org/v25/vis-network
+
 ## Migrating from the source add-on
 
 In application code there are two changes.
